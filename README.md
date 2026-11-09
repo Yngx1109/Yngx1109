@@ -1,6 +1,6 @@
 # Xiao Yang
 
-I am a docter student at University of Chongqing, affiliated with the School of Computer Science.
+I am a docter student at Chongqing University, affiliated with the School of Computer Science.
 
 ### Research Interests
 - Computer Vision
